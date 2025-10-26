@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Human Benchmark Knockoff
+description: Group Project created for CSE110
+img: assets/img/7.jpg
+redirect: https://cse110-sp25-group14.github.io/cse110-sp25-group14/source/homepage.html
 importance: 3
 category: fun
 ---
