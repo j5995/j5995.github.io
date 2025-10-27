@@ -466,11 +466,6 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-human-benchmark-knockoff",
-          title: 'Human Benchmark Knockoff',
-          description: "Group Project created for CSE110",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -496,6 +491,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-human-benchmark-knockoff",
+          title: 'Human Benchmark Knockoff',
+          description: "Group Project created for CSE110",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CSE110_Project/";
             },},{
         id: 'social-email',
         title: 'email',
