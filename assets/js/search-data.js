@@ -456,6 +456,11 @@ ninja.data = [{
           description: "Group Project created for CSE110",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CSE110_Project/";
+            },},{id: "projects-autoblinds",
+          title: 'AutoBlinds',
+          description: "Quarter long group project, working from PCB design to product.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ECE196_Project/";
             },},{
         id: 'social-email',
         title: 'email',
