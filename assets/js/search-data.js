@@ -456,6 +456,11 @@ ninja.data = [{
           description: "Group Project created for CSE110",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CSE110_Project/";
+            },},{id: "projects-autonomous-rc-car-with-onboard-neural-network-accelerator",
+          title: 'Autonomous RC Car with onboard neural network accelerator',
+          description: "Built a fully autonomous RC car given only a chassis, utilizing a RPI5 with a Hailo AI Hat+ to run DonkeyCar deep learning models. Also works with GPS nav.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ECE148_Project/";
             },},{id: "projects-autoblinds",
           title: 'AutoBlinds',
           description: "Quarter long group project, working from PCB design to product.",
